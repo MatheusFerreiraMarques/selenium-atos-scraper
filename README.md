@@ -6,7 +6,7 @@
 
 A aplicação faz uma coleta de atos publicados no site da **Receita Federal**, registro no banco de dados PostgreSQL e uma **API FastAPI** para gerenciamento, consulta e monitoramento dos atos.
 
-O scraper também pode ser executado **[via scheduler](#6-executar-rpa)** e logs de execução são registrados para monitoramento.
+O scraper também pode ser executado via scheduler e logs de execução são registrados para monitoramento.
 
 ---
 
@@ -18,7 +18,7 @@ O scraper também pode ser executado **[via scheduler](#6-executar-rpa)** e logs
 | RPA                  | Selenium                |
 | Container            | Docker / Docker Compose |
 
---
+---
 
 ## **Estrutura**
 
